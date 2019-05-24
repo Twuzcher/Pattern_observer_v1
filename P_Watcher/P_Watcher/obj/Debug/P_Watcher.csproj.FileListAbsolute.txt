@@ -1,0 +1,7 @@
+C:\Users\Tsatsura-MS\source\repos\P_Watcher\P_Watcher\bin\Debug\P_Watcher.exe.config
+C:\Users\Tsatsura-MS\source\repos\P_Watcher\P_Watcher\bin\Debug\P_Watcher.exe
+C:\Users\Tsatsura-MS\source\repos\P_Watcher\P_Watcher\bin\Debug\P_Watcher.pdb
+C:\Users\Tsatsura-MS\source\repos\P_Watcher\P_Watcher\obj\Debug\P_Watcher.csprojAssemblyReference.cache
+C:\Users\Tsatsura-MS\source\repos\P_Watcher\P_Watcher\obj\Debug\P_Watcher.csproj.CoreCompileInputs.cache
+C:\Users\Tsatsura-MS\source\repos\P_Watcher\P_Watcher\obj\Debug\P_Watcher.exe
+C:\Users\Tsatsura-MS\source\repos\P_Watcher\P_Watcher\obj\Debug\P_Watcher.pdb
